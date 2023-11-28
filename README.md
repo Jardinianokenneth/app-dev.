@@ -6,7 +6,7 @@ My first repository.
 ## **Directed by:**
 Jesús Colmenar
 
-##**Written by:**
+## **Written by:**
  Álex Pina
 
 ### Plot
